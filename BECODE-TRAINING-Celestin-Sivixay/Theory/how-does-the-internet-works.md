@@ -21,13 +21,13 @@ Those names make it way easier for people to use websites and the Internet.
 The computers used by most people every day are called clients and are not directly connected to the wire but through an internet provider.
 If someone were to send an email to someone else with a different type of email address, the computer of the first person would only communicate with their own email provider and that provider would communicate with the other email provider.
 
-## How are informations sent ?
+## How is information sent ?
 
-Some informations can be really heavy to transfer while others might be very light, how do computer make sure that everything is sent and there is no error with the information sent ?
+Some information can be really heavy to transfer while others might be very light, how do computer make sure that everything is sent and there is no error with the information sent ?
 
->That is because they divide those informations into smaller pieces sent through numerous packages which are then reassembled in order to remake the complete information.
+>That is because they divide those information into smaller pieces sent through numerous packages which are then reassembled in order to remake the complete information.
 
-### How do computers know where to send informations ?
+### How do computers know where to send information ?
 
 Most of the time, be it your sister, brother, colleague or friend, you may not be alone on your internet connection so how do computer make sur to send the information to the right place ?
 
@@ -40,3 +40,5 @@ This conclude this summary on how the Internet works. If you would like a more v
 Thank you for reading.
 
 ![The Internet](https://images.spiceworks.com/wp-content/uploads/2023/02/20174832/A-symbolic-image-of-the-power-and-ubiquity-of-the-internet..jpg)
+
+this theory file has been reviewed by *Louis Van Aken*
